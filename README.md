@@ -4,31 +4,59 @@ I am an Associate Software Engineer at Diversive Technologies with over 6 months
 
 I am passionate about software development, problem-solving, and continuously learning modern technologies to build efficient and maintainable applications.
 
-### 🚀 Tech Stack
+### 🌐 Connect With Me
 
-#### Backend
-- Core Java
-- Spring Boot
-- RESTful APIs
+* GitHub: https://github.com/Subhan2k05
+* LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+* Email: [subhan.dev.pk@gmail.com](mailto:subhan.dev.pk@gmail.com)
+* Portfolio: https://your-portfolio-url.com
 
-#### Frontend
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
+## 🚀 Tech Stack
 
-#### DevOps & Tools
-- Docker
-- Git
-- GitHub
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb" />
+</p
+
+* Core Java
+* Spring Boot
+* RESTful APIs
+* PostgreSQL
+* MongoDB
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
+</p>
+
+* JavaScript
+* TypeScript
+* React.js
+* Next.js
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+* Docker
+* Git
+* GitHub
 
 ### 🌱 Currently Focused On
-- Backend Development with Spring Boot
-- Microservices Architecture
-- API Design & Integration
-- Full-Stack Web Development
-- Docker & Containerization
+
+* Backend Development with Spring Boot
+* Microservices Architecture
+* API Design & Integration
+* Full-Stack Web Development
+* Docker & Containerization
 
 ### 🤝 Collaboration
+
 I enjoy working in cross-functional teams, collaborating with frontend developers, and contributing to the development of scalable and user-friendly applications.
