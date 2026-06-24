@@ -7,7 +7,7 @@ I am passionate about software development, problem-solving, and continuously le
 ### 🌐 Connect With Me
 
 * GitHub: https://github.com/Subhan2k05
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+* LinkedIn: https://www.linkedin.com/in/muhammad-subhan-055a352b3/
 * Email: [subhan.dev.pk@gmail.com](mailto:subhan.dev.pk@gmail.com)
 * Portfolio: https://your-portfolio-url.com
 
@@ -17,7 +17,7 @@ I am passionate about software development, problem-solving, and continuously le
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb" />
-</p
+</p>
 
 * Core Java
 * Spring Boot
