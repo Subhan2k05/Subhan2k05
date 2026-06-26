@@ -9,7 +9,7 @@ I am passionate about software development, problem-solving, and continuously le
 * GitHub: https://github.com/Subhan2k05
 * LinkedIn: https://www.linkedin.com/in/muhammad-subhan-055a352b3/
 * Email: [subhan.dev.pk@gmail.com](mailto:subhan.dev.pk@gmail.com)
-* Portfolio: https://your-portfolio-url.com
+* Portfolio: https://muhammad-subhan-portfolio.netlify.app/
 
 ## 🚀 Tech Stack
 
